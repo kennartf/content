@@ -8,3 +8,6 @@ adding a new line of code to the git repo
 
 # New chapter
 learning how to pull from the server
+
+#Git main
+the command is git merge
